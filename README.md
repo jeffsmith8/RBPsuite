@@ -53,6 +53,7 @@ _Prerolled functions to rapidly plot analyses_
 * Upsetplots  
   
 __Utility Tools__  
+_Tools to make life easier_  
 * DataFrame manipulation for plotting, i.e. table reorganisation by metadata classes, long/wide form tabulation  
 * Calculation and extraction of descriptive statistics by metadata classes and intensity types  
 * Conversion of flat dataframes to multi-indexed dataframes  
