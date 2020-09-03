@@ -12,7 +12,7 @@ A brief overview of _some_ of the features gives users the following options:
 __Routine Processing__  
 _These tools clean up MaxQuant outputs_  
 * Manipulation, renaming of samples, and rewriting of Max Quant .txt outputs  
-* Re-annotation of protein and gene names with any user-selected convention utilising a stable convention  
+* Re-annotation of protein and gene names with any user-selected convention utilising a stable picking algorithm  
 * Limits the impact of peptide false transfer rates (due to Match Between Runs) on the identification of proteins by Intensity or iBAQ intensity  
 * Removes gene duplication by disqualifying protein isoforms from generating multiple protein groups for disparate parents  
   
