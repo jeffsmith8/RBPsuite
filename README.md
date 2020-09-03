@@ -1,3 +1,4 @@
+![alt text](https://github.com/jeffsmith8/RBPsuite/blob/master/RBPsuite%20logo.png?raw=true)
 # RBPsuite v1.0  
 A Proteomics Pipeline for RBP Affinity Capture  
 Written by _Jeff Smith, The Walter and Eliza Hall Institute, 2020_  
