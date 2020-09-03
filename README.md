@@ -31,8 +31,8 @@ _All tools can be applied on a group-wise or individual sample level_
   
 __Affinity Analysis__  
 _Tools for identifying enriched or purified proteins/genes_  
-* T-Testing, Imputation, FDR correction (BH, q-val), Fold change calc  
-* Protein/Gene Classifier for Affinity Captures by Purification  
+* Quantitative T-Testing, Imputation, FDR correction (BH, q-val), Fold change calc  
+* Qualitative Protein/Gene Classifier for Affinity Captures by Purification  
   
 __Molecular Analysis__  
 _Tools for Characterising Protein Biochemistry and Exploring Reported Gene Functions_  
