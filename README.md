@@ -1,7 +1,7 @@
 ![alt text](https://github.com/jeffsmith8/RBPsuite/blob/master/RBPsuite%20logo.png?raw=true)
   
-__RBPsuite v1.0__ A Proteomics Pipeline for RBP Affinity Capture  
-Written by _Jeff Smith, The Walter and Eliza Hall Institute, 2020_  
+__RBPsuite v1.0: A Proteomics Pipeline for RBP Affinity Capture__  
+_Written by Jeff Smith, The Walter and Eliza Hall Institute, 2020_  
   
 _RBPsuite_ is a group of python tools useful for processing MS data. It is intended to provide a complete pipeline for the qualitative identification of RNA-binding proteins captured via the accompanying RNP purification method. For comparative purposes tools are also provided for a conventional affinity analysis as would be conducted for RNA-Interactome Capture (Castello/Baltz 2012) or for standard MS identification of binding partners by immunoprecipitation.  
   
