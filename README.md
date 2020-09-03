@@ -42,9 +42,9 @@ _Tools for Characterising Protein Biochemistry and Exploring Reported Gene Funct
   
 __Visualisation Aids__  
 _Prerolled functions to rapidly plot analyses_  
-* Statis and interactive volcano plots  
+* Static and interactive volcano plots  
 * Heatmaps  
-* Groupled/individual/stacked barplots and histograms  
+* Grouped/individual/stacked barplots and histograms  
 * Scatterplots and correlation reporting  
 * Dendrogram  
 * Split sample violin plots  
