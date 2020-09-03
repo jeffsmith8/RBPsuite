@@ -19,5 +19,5 @@ Conventional Affinity Capture Analysis
 __e304 Titration of cCL cell numbers__  
 Routine Titration Experiment  
   
-__e311_RNP Purification via OdT and Global Capture__  
+__e311 RNP Purification via OdT and Global Capture__  
 Basic analysis only  
