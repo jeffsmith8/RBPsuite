@@ -1,6 +1,6 @@
 # __Viewing Tutorial Notebooks__  
   
-These files are ___quite large and unlikely to render in browser; if so download them first then reopen.___  
+These files are __quite large and unlikely to render in browser; if so download them first then reopen.__  
   
 All tutorials share the same initial QC pipeline. In addition to this:  
   
