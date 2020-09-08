@@ -6,7 +6,6 @@ Created on Tue Dec  3 12:26:37 2019
 """
 import pandas as pd
 import numpy as np
-import padua
 import jwrangle
 
 
@@ -302,7 +301,7 @@ def MQ_filterValidValues(pGroup, prefix, group_filter, sample_list, rship = 'equ
     
     if impute == True:
         df2 = df.loc[:,col_list].replace(0,np.nan)
-        dfimputed_values, dfimputed_bool = padua.imputation.gaussian(df2, width=0.3, downshift=-1.8)   ## Extract this padua function so that installing the extra package can be avoided.
+        dfimputed_values, dfimputed_bool = imputation.gaussian(df2, width=0.3, downshift=-1.8)  
         df3 = dfnames.merge(dfimputed_values, how='outer', left_index=True, right_index=True)
     
     else:
