@@ -2,7 +2,7 @@
   
 These files are __quite large and unlikely to render in browser; if so download them first then reopen.__  
   
-__RNP Purification Analysis Protocol:__  
+__RBPSuite Analyses for the RNP Purification Protocol:__  
 All examples use data from method development and are not necessarily representative of the optimised protocol.  
 Data was acquired on either the QE Classic Orbitrap (Thermo Scientific) or TimsTOF Pro (Bruker)  
   
